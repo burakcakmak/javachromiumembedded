@@ -1,0 +1,1 @@
+The JCEF source code repository has moved to Git at https://bitbucket.org/chromiumembedded/java-cef/src/. The old SVN repository can be viewed at https://code.google.com/p/javachromiumembedded/source/checkout but is read-only and no longer updated as of March 18, 2015.

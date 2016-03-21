@@ -1,0 +1,1 @@
+The JCEF Wiki has moved to https://bitbucket.org/chromiumembedded/java-cef/wiki/Home. The old Wiki can be viewed at https://code.google.com/p/javachromiumembedded/w/list but is read-only and no longer updated as of March 18, 2015.

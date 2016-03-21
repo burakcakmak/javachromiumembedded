@@ -1,0 +1,1 @@
+The JCEF issue tracker has moved to https://bitbucket.org/chromiumembedded/java-cef/issues?status=new&status=open. Please create and comment on issues there.
